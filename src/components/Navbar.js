@@ -10,7 +10,7 @@ const Navbar = ({ classactive, setclassactive }) => {
             <a href="#about">About</a>
             <a href="#resume">Resume</a>
             <a href="#project">Projects</a>
-            <a href="#testimonial">Testimonial</a>
+            {/* <a href="#testimonial">Testimonial</a> */}
             <a href="#contact">ContactMe</a>
         </div>
         <div className="hamburger" onClick={() => setclassactive(!classactive)}>
