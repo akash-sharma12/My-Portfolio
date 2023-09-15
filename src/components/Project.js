@@ -48,10 +48,10 @@ const Project = () => {
           />
           <p>My Portfolio</p>
           <div className="p-button">
-            <a className="github" href="">
+            <a className="github" href="https://github.com/akash-sharma12/My-Portfolio/tree/master">
               Github
             </a>
-            <a className="live" href="">
+            <a className="live" href="https://my-portfolio-alpha-sable.vercel.app/">
               Live Demo
             </a>
           </div>
